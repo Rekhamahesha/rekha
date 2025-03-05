@@ -11,3 +11,13 @@ void main(){
 
 		return 0;
 }
+
+#include<stdio.h>
+void main(){
+	printf("hello %d\n");
+
+	return 0;
+}
+
+
+
